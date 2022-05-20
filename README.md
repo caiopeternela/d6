@@ -1,1 +1,1 @@
-# [D6 - Desafio QR Code](https://caiopeternela.github.io/d6/d6/index.html)
+# [D6 - Desafio Order Summary](https://caiopeternela.github.io/d6/d6/index.html)
